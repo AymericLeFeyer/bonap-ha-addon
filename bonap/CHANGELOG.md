@@ -1,3 +1,16 @@
+## 1.3.5
+
+### Nouveautés
+
+- add OpenCode Zen and OpenCode Go providers
+- add OpenCode Zen and OpenCode Go providers
+
+### Corrections
+
+- route OpenCode calls through dev/prod proxy to fix CORS
+- don't auto-replace model list on test for opencode-go
+
+
 ## 1.3.4
 
 
