@@ -1,3 +1,25 @@
+## 1.4.0
+
+### Nouveautés
+
+- add weekly meal generator with Marmiton import and auto-planning
+- rename UI text to emphasize new recipe discovery
+- kiosk vertical
+- kiosk vertical
+- add weekly meal generator
+
+### Corrections
+
+- add OpenCode proxy locations to standalone nginx.conf and use proxy path in production to avoid CORS errors
+- correct Marmiton search URL
+- display units of measure on shopping list items
+- make the dynamic Ollama proxy route match on Express 4
+- e2e
+- add OpenCode proxy locations to standalone nginx.conf
+- corriger la route du proxy Ollama, incompatible avec Express 4
+- afficher les unités de mesure dans la liste de courses
+
+
 ## 1.3.5
 
 ### Nouveautés
