@@ -1,3 +1,11 @@
+## 1.4.1
+
+### Nouveautés
+
+- let Mealie expand recipes into the shopping list
+- déléguer l'expansion des recettes à l'endpoint natif de Mealie
+
+
 ## 1.4.0
 
 ### Nouveautés
