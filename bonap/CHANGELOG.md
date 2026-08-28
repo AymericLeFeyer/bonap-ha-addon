@@ -1,3 +1,17 @@
+## 1.4.2
+
+### Nouveautés
+
+- choisir la page d'accueil de Bonap
+- choisir la page d'accueil de Bonap
+- afficher les ingrédients associés à chaque étape
+- afficher les ingrédients associés à chaque étape
+
+### Corrections
+
+- conserver l'aliment et l'unité lors des mises à jour d'articles
+
+
 ## 1.4.1
 
 ### Nouveautés
